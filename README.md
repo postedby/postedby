@@ -8,9 +8,9 @@ https://ncovid.nu - COVID-19 Statistics
 
 <h3>Donate to my work?</h3>
 
-BTC: 3BGDk1b6DPdMCkFaqhxdYdUL8C1Ygtpd9m<br>
-ETH: 0xb2f4b7117B02b37fBC46e7ff98Db66957533eb96<br>
-LTC: MG3RhMzQdJqYyDpLF55dVopFb367z6j1LH
+BTC: 3EYDcLz1Lmedz3TvazAvjH64gdYoNHj8Vz<br>
+ETH: 0x1bE0ca924580f22Ea4961B6a0f42428FF6049C1b<br>
+LTC: MPzkgsRPCbpdWogy4hd1irQQAkwRLCNVZS
 
 ![cardheart](https://user-images.githubusercontent.com/84492503/132641082-81655dd6-906d-4822-9e7d-c6e1705d0593.png)
 
